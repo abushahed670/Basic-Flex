@@ -1,0 +1,19 @@
+.parent{
+    padding: 25px;
+    background-color: blue;
+    display: flex;
+    gap: 30px;
+    /* justify-content: center; */
+    /* justify-content: space-around; */
+    /* flex-direction: column; */
+    /* flex-wrap: wrap; */
+
+}
+.child{
+    border: 2px solid red;
+    background: yellowgreen;
+    padding: 20px;
+    font-size:22px;
+    /* margin: 10px 0; */
+
+}
